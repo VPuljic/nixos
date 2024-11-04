@@ -15,7 +15,7 @@
       ../../system/hardware/bluetooth.nix
       (./. + "../../../system/wm"+("/"+userSettings.wm)+".nix") # My window manager
       #../../system/app/flatpak.nix
-      ../../system/app/virtualization.nix
+      # ../../system/app/virtualization.nix
       ../../system/app/wofi.nix
       ( import ../../system/app/docker.nix {storageDriver = null; inherit pkgs userSettings lib;} )
       ../../system/security/doas.nix
