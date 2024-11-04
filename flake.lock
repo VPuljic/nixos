@@ -1190,6 +1190,22 @@
         "type": "github"
       }
     },
+    "nvchad": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1728129783,
+        "narHash": "sha256-SVpep7lVX0isYsUtscvgA7Ga3YXt/2jwQQCYkYadjiM=",
+        "owner": "NvChad",
+        "repo": "starter",
+        "rev": "d0c602f5f155d4d1261609219e9b8a61e936d681",
+        "type": "github"
+      },
+      "original": {
+        "owner": "NvChad",
+        "repo": "starter",
+        "type": "github"
+      }
+    },
     "nwg-dock-hyprland-pin-nixpkgs": {
       "locked": {
         "lastModified": 1716385560,
@@ -1450,6 +1466,7 @@
         "nix-straight": "nix-straight",
         "nixpkgs": "nixpkgs",
         "nixpkgs-stable": "nixpkgs-stable",
+        "nvchad": "nvchad",
         "nwg-dock-hyprland-pin-nixpkgs": "nwg-dock-hyprland-pin-nixpkgs",
         "org-krita": "org-krita",
         "org-nursery": "org-nursery",
