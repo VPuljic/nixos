@@ -24,7 +24,6 @@
               ../../user/style/stylix.nix # Styling and themes for my apps
               ../../user/lang/cc/cc.nix # C and C++ tools
               ../../user/lang/python/python.nix # python 
-              ../../user/lang/lua/lua.nix # lua 
               ../../user/lang/rust/rust.nix # rust tools
               ../../user/lang/typescript/typescript.nix # lang server linter and formaterr
               # ../../user/lang/godot/godot.nix # Game development

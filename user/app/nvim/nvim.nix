@@ -6,6 +6,7 @@
     neovim-remote
     neovide
     lua-language-server
+    luajitPackages.luarocks-nix
     vscode-langservers-extracted
     nil
     clang-tools
