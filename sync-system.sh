@@ -7,4 +7,5 @@
 SCRIPT_DIR=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
 
 # Rebuild system
+sudo nix flake update hyprland/aquamarine;
 sudo nixos-rebuild switch --flake $SCRIPT_DIR#system;
